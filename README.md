@@ -1,3 +1,5 @@
+<img width="801" height="526" alt="image" src="https://github.com/user-attachments/assets/9b885908-d684-401c-94ea-cc0bdacefad4" />
+
 # vue-todo-list
 
 This template should help get you started developing with Vue 3 in Vite.
