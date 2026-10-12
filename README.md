@@ -1,3 +1,4 @@
+<img width="844" height="504" alt="image" src="https://github.com/user-attachments/assets/1a072039-8b4e-4de5-ad9d-8fe859eebe51" />
 
 # vue-todo-list
 
